@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Smartphone Galaxy Pro",
+    "price": 1299.99,
+    "description": "Smartphone com câmera de 108MP e 128GB de armazenamento",
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=400&fit=crop",
+    "category": "Eletrônicos",
+    "stock": 15,
+    "reviews": []
+  },
+  {
+    "id": 2,
+    "name": "Notebook Gamer Ultra",
+    "price": 2499.99,
+    "description": "Notebook para jogos com placa de vídeo dedicada",
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=400&fit=crop",
+    "category": "Informática",
+    "stock": 8,
+    "reviews": []
+  },
+  {
+    "id": 3,
+    "name": "Fone Bluetooth Premium",
+    "price": 299.99,
+    "description": "Fone de ouvido sem fio com cancelamento de ruído",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=400&fit=crop",
+    "category": "Áudio",
+    "stock": 25,
+    "reviews": []
+  },
+  {
+    "id": 4,
+    "name": "Smart TV 55 4K",
+    "price": 1899.99,
+    "description": "Smart TV 55 polegadas com resolução 4K",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=400&h=400&fit=crop",
+    "category": "Eletrônicos",
+    "stock": 12,
+    "reviews": []
+  },
+  {
+    "id": 5,
+    "name": "Console de Jogos Next",
+    "price": 2199.99,
+    "description": "Console de última geração com SSD ultra-rápido",
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=400&fit=crop",
+    "category": "Games",
+    "stock": 6,
+    "reviews": []
+  },
+  {
+    "id": 6,
+    "name": "Tablet Pro 12",
+    "price": 899.99,
+    "description": "Tablet profissional com tela de 12 polegadas",
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=400&fit=crop",
+    "category": "Informática",
+    "stock": 20,
+    "reviews": []
+  },
+  {
+    "id": 7,
+    "name": "Câmera Digital 4K",
+    "price": 1599.99,
+    "description": "Câmera profissional com gravação em 4K",
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=400&fit=crop",
+    "category": "Fotografia",
+    "stock": 10,
+    "reviews": []
+  },
+  {
+    "id": 8,
+    "name": "Smartwatch Fitness",
+    "price": 399.99,
+    "description": "Relógio inteligente com monitoramento de saúde",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=400&fit=crop",
+    "category": "Wearables",
+    "stock": 30,
+    "reviews": []
+  },
+  {
+    "id": 9,
+    "name": "Teclado Mecânico RGB",
+    "price": 249.99,
+    "description": "Teclado mecânico para gamers com iluminação RGB",
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=400&h=400&fit=crop",
+    "category": "Periféricos",
+    "stock": 18,
+    "reviews": []
+  },
+  {
+    "id": 10,
+    "name": "Mouse Gamer Wireless",
+    "price": 159.99,
+    "description": "Mouse sem fio de alta precisão para jogos",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=400&fit=crop",
+    "category": "Periféricos",
+    "stock": 22,
+    "reviews": []
+  },
+  {
+    "id": 11,
+    "name": "Caixa de Som Bluetooth",
+    "price": 199.99,
+    "description": "Caixa de som portátil com som de alta qualidade",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=400&fit=crop",
+    "category": "Áudio",
+    "stock": 35,
+    "reviews": []
+  },
+  {
+    "id": 12,
+    "name": "Monitor 27 Ultrawide",
+    "price": 799.99,
+    "description": "Monitor ultrawide de 27 polegadas para produtividade",
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=400&h=400&fit=crop",
+    "category": "Informática",
+    "stock": 14,
+    "reviews": []
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "userId": 2,
+    "items": [
+      {
+        "productId": 1,
+        "quantity": 1,
+        "price": 1299.99
+      }
+    ],
+    "total": 1299.99,
+    "status": "completed",
+    "date": "2024-01-15T10:30:00Z",
+    "shippingAddress": "Rua das Flores, 456"
+  }
+]

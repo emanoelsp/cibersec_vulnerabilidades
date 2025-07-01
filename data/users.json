@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "email": "admin@ecommerce.com",
+    "password": "admin123",
+    "name": "Administrador",
+    "role": "admin",
+    "address": "Rua Admin, 123",
+    "phone": "11999999999",
+    "cpf": "123.456.789-00"
+  },
+  {
+    "id": 2,
+    "email": "user@test.com",
+    "password": "123456",
+    "name": "João Silva",
+    "role": "user",
+    "address": "Rua das Flores, 456",
+    "phone": "11888888888",
+    "cpf": "987.654.321-00"
+  },
+  {
+    "id": 3,
+    "email": "maria@email.com",
+    "password": "senha123",
+    "name": "Maria Santos",
+    "role": "user",
+    "address": "Av. Principal, 789",
+    "phone": "11777777777",
+    "cpf": "456.789.123-00"
+  }
+]
