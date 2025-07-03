@@ -65,6 +65,3 @@ Esta aplicação contém vulnerabilidades intencionais e **NÃO deve ser usada e
 - TypeScript
 - Tailwind CSS
 - Armazenamento local em JSON
-\`\`\`
-
-Agora vamos criar a estrutura de dados JSON:
